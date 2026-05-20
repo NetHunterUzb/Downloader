@@ -1,0 +1,6 @@
+{
+  "name": "Universal Downloader Hub",
+  "description": "Enterprise-grade system for high-performance universal video and audio extraction across backend APIs, Telegram Bots, and responsive web apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
